@@ -393,4 +393,3 @@ local args = {
 game:GetService("ReplicatedStorage").Remotes.CodeFire:FireServer(unpack(args))
 
 end
-)}
